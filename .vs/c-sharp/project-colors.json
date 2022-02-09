@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a6876a09-53d2-47af-a648-81bad791d19d": {
+      "ProjectGuid": "a6876a09-53d2-47af-a648-81bad791d19d",
+      "DisplayName": "c-sharp",
+      "ColorIndex": 0
+    },
+    "b1ffc5c5-05eb-454b-bc64-505e246ca686": {
+      "ProjectGuid": "b1ffc5c5-05eb-454b-bc64-505e246ca686",
+      "DisplayName": "Szamkitalalo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
