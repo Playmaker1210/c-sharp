@@ -5,3 +5,11 @@ C:\dev\c#\c-sharp\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
 C:\dev\c#\c-sharp\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\MinMax\obj\Debug\MinMax.exe
 C:\dev\c#\c-sharp\MinMax\obj\Debug\MinMax.pdb
+C:\dev\c#\MinMax\bin\Debug\MinMax.exe.config
+C:\dev\c#\MinMax\bin\Debug\MinMax.exe
+C:\dev\c#\MinMax\bin\Debug\MinMax.pdb
+C:\dev\c#\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
+C:\dev\c#\MinMax\obj\Debug\MinMax.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\dev\c#\MinMax\obj\Debug\MinMax.exe
+C:\dev\c#\MinMax\obj\Debug\MinMax.pdb

@@ -10,7 +10,27 @@
       "ProjectGuid": "b1ffc5c5-05eb-454b-bc64-505e246ca686",
       "DisplayName": "Szamkitalalo",
       "ColorIndex": 1
+    },
+    "8812376d-8182-4569-972d-a83c8239ca36": {
+      "ProjectGuid": "8812376d-8182-4569-972d-a83c8239ca36",
+      "DisplayName": "MinMax",
+      "ColorIndex": 2
+    },
+    "81ea1bcf-48a1-4c1b-b6a9-23d49dc2e820": {
+      "ProjectGuid": "81ea1bcf-48a1-4c1b-b6a9-23d49dc2e820",
+      "DisplayName": "Szigetek",
+      "ColorIndex": 3
+    },
+    "8d40bf01-637c-428a-b86d-805e42e109b4": {
+      "ProjectGuid": "8d40bf01-637c-428a-b86d-805e42e109b4",
+      "DisplayName": "AtlagHom",
+      "ColorIndex": 4
+    },
+    "406a5bb9-3836-40ab-b742-5bbe18bad1ed": {
+      "ProjectGuid": "406a5bb9-3836-40ab-b742-5bbe18bad1ed",
+      "DisplayName": "BuborekRendezes",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }
