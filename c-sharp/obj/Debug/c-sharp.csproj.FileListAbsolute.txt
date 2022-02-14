@@ -1,7 +1,6 @@
 C:\dev\c#\c-sharp\c-sharp\bin\Debug\c-sharp.exe.config
 C:\dev\c#\c-sharp\c-sharp\bin\Debug\c-sharp.exe
 C:\dev\c#\c-sharp\c-sharp\bin\Debug\c-sharp.pdb
-C:\dev\c#\c-sharp\c-sharp\obj\Debug\c-sharp.csproj.AssemblyReference.cache
 C:\dev\c#\c-sharp\c-sharp\obj\Debug\c-sharp.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\c-sharp\obj\Debug\c-sharp.exe
 C:\dev\c#\c-sharp\c-sharp\obj\Debug\c-sharp.pdb

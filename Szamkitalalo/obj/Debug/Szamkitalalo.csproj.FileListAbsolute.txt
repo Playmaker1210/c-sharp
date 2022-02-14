@@ -1,7 +1,7 @@
-C:\dev\c#\c-sharp\Szamkitalalo\obj\Debug\Szamkitalalo.csproj.AssemblyReference.cache
-C:\dev\c#\c-sharp\Szamkitalalo\obj\Debug\Szamkitalalo.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\Szamkitalalo\bin\Debug\Szamkitalalo.exe.config
 C:\dev\c#\c-sharp\Szamkitalalo\bin\Debug\Szamkitalalo.exe
 C:\dev\c#\c-sharp\Szamkitalalo\bin\Debug\Szamkitalalo.pdb
+C:\dev\c#\c-sharp\Szamkitalalo\obj\Debug\Szamkitalalo.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Szamkitalalo\obj\Debug\Szamkitalalo.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\Szamkitalalo\obj\Debug\Szamkitalalo.exe
 C:\dev\c#\c-sharp\Szamkitalalo\obj\Debug\Szamkitalalo.pdb
