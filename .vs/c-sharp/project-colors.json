@@ -30,7 +30,12 @@
       "ProjectGuid": "406a5bb9-3836-40ab-b742-5bbe18bad1ed",
       "DisplayName": "BuborekRendezes",
       "ColorIndex": 5
+    },
+    "f7beeb1c-eb73-42e8-a148-3db8c96b8d56": {
+      "ProjectGuid": "f7beeb1c-eb73-42e8-a148-3db8c96b8d56",
+      "DisplayName": "RekurzivFaktorialis",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }
