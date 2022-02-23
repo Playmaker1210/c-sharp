@@ -1,0 +1,7 @@
+C:\dev\c#\dolgozat\Dolgozat1\született\bin\Debug\született.exe.config
+C:\dev\c#\dolgozat\Dolgozat1\született\bin\Debug\született.exe
+C:\dev\c#\dolgozat\Dolgozat1\született\bin\Debug\született.pdb
+C:\dev\c#\dolgozat\Dolgozat1\született\obj\Debug\született.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\dolgozat\Dolgozat1\született\obj\Debug\született.csproj.CoreCompileInputs.cache
+C:\dev\c#\dolgozat\Dolgozat1\született\obj\Debug\született.exe
+C:\dev\c#\dolgozat\Dolgozat1\született\obj\Debug\született.pdb

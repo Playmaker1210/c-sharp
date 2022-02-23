@@ -1,0 +1,8 @@
+C:\dev\c#\dolgozat\Dolgozat1\negativ\bin\Debug\negativ.exe.config
+C:\dev\c#\dolgozat\Dolgozat1\negativ\bin\Debug\negativ.exe
+C:\dev\c#\dolgozat\Dolgozat1\negativ\bin\Debug\negativ.pdb
+C:\dev\c#\dolgozat\Dolgozat1\negativ\obj\Debug\negativ.csproj.AssemblyReference.cache
+C:\dev\c#\dolgozat\Dolgozat1\negativ\obj\Debug\negativ.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\dolgozat\Dolgozat1\negativ\obj\Debug\negativ.csproj.CoreCompileInputs.cache
+C:\dev\c#\dolgozat\Dolgozat1\negativ\obj\Debug\negativ.exe
+C:\dev\c#\dolgozat\Dolgozat1\negativ\obj\Debug\negativ.pdb

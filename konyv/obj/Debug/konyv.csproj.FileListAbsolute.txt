@@ -1,0 +1,8 @@
+C:\dev\c#\dolgozat\Dolgozat1\konyv\bin\Debug\konyv.exe.config
+C:\dev\c#\dolgozat\Dolgozat1\konyv\bin\Debug\konyv.exe
+C:\dev\c#\dolgozat\Dolgozat1\konyv\bin\Debug\konyv.pdb
+C:\dev\c#\dolgozat\Dolgozat1\konyv\obj\Debug\konyv.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\dolgozat\Dolgozat1\konyv\obj\Debug\konyv.csproj.CoreCompileInputs.cache
+C:\dev\c#\dolgozat\Dolgozat1\konyv\obj\Debug\konyv.exe
+C:\dev\c#\dolgozat\Dolgozat1\konyv\obj\Debug\konyv.pdb
+C:\dev\c#\dolgozat\Dolgozat1\konyv\obj\Debug\konyv.csproj.AssemblyReference.cache
