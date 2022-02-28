@@ -1,0 +1,8 @@
+C:\dev\c#\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\dev\c#\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\dev\c#\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\dev\c#\RegularExpressions\obj\Debug\RegularExpressions.csproj.AssemblyReference.cache
+C:\dev\c#\RegularExpressions\obj\Debug\RegularExpressions.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\RegularExpressions\obj\Debug\RegularExpressions.csproj.CoreCompileInputs.cache
+C:\dev\c#\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\dev\c#\RegularExpressions\obj\Debug\RegularExpressions.pdb
