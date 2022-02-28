@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32126.317
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp", "c-sharp\c-sharp.csproj", "{A6876A09-53D2-47AF-A648-81BAD791D19D}"
 EndProject
@@ -17,7 +17,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuborekRendezes", "BuborekR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekurzivFaktorialis", "RekurzivFaktorialis\RekurzivFaktorialis.csproj", "{F7BEEB1C-EB73-42E8-A148-3DB8C96B8D56}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{B8063178-720E-430C-B364-DC3F1DFCE42C}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekurzivHatvany", "RekurzivHatvany\RekurzivHatvany.csproj", "{DA385DD5-70CE-4750-BDF8-03915D70F5B9}"
+>>>>>>> c1046619c649e6be76c3e8746f0c75af47881513
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +57,17 @@ Global
 		{F7BEEB1C-EB73-42E8-A148-3DB8C96B8D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7BEEB1C-EB73-42E8-A148-3DB8C96B8D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7BEEB1C-EB73-42E8-A148-3DB8C96B8D56}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{B8063178-720E-430C-B364-DC3F1DFCE42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B8063178-720E-430C-B364-DC3F1DFCE42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8063178-720E-430C-B364-DC3F1DFCE42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8063178-720E-430C-B364-DC3F1DFCE42C}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{DA385DD5-70CE-4750-BDF8-03915D70F5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA385DD5-70CE-4750-BDF8-03915D70F5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA385DD5-70CE-4750-BDF8-03915D70F5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA385DD5-70CE-4750-BDF8-03915D70F5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> c1046619c649e6be76c3e8746f0c75af47881513
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

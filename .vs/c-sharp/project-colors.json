@@ -35,7 +35,12 @@
       "ProjectGuid": "f7beeb1c-eb73-42e8-a148-3db8c96b8d56",
       "DisplayName": "RekurzivFaktorialis",
       "ColorIndex": 6
+    },
+    "b8063178-720e-430c-b364-dc3f1dfce42c": {
+      "ProjectGuid": "b8063178-720e-430c-b364-dc3f1dfce42c",
+      "DisplayName": "RegularExpressions",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
