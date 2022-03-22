@@ -20,6 +20,19 @@ namespace Homerseklet_elemzes {
             genMaxHom();
         }
 
+        public int getEvszak() {
+            return evszak;
+        }
+        public int getHonap() {
+            return honap;
+        }
+        public int getMinHom() {
+            return min_homerseklet;
+        }
+        public int getMaxHom() {
+            return max_homerseklet;
+        }
+
         private void genMinHom() {
             if (evszak == 1) //tavasz
                 min_homerseklet = random.Next(0, 10);
@@ -47,19 +60,5 @@ namespace Homerseklet_elemzes {
             return "Minumum hom: " + min_homerseklet + " maximum hom: " + max_homerseklet
                 + " atlag hom: " + atlag + "\n";
         }
-
-        public int getEvszak() {
-            return evszak;
-        }
-        public int getHonap() {
-            return honap;
-        }
-        public int getMinHom() {
-            return min_homerseklet;
-        }
-        public int getMaxHom() {
-            return max_homerseklet;
-        }
-
     }
 }
