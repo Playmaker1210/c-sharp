@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32106.194
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp", "c-sharp\c-sharp.csproj", "{A6876A09-53D2-47AF-A648-81BAD791D19D}"
 EndProject
@@ -17,15 +17,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuborekRendezes", "BuborekR
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekurzivFaktorialis", "RekurzivFaktorialis\RekurzivFaktorialis.csproj", "{F7BEEB1C-EB73-42E8-A148-3DB8C96B8D56}"
 EndProject
-<<<<<<< HEAD
-<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressions", "RegularExpressions\RegularExpressions.csproj", "{B8063178-720E-430C-B364-DC3F1DFCE42C}"
-=======
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekurzivHatvany", "RekurzivHatvany\RekurzivHatvany.csproj", "{DA385DD5-70CE-4750-BDF8-03915D70F5B9}"
->>>>>>> c1046619c649e6be76c3e8746f0c75af47881513
-=======
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekurzivHatvany", "RekurzivHatvany\RekurzivHatvany.csproj", "{DA385DD5-70CE-4750-BDF8-03915D70F5B9}"
->>>>>>> c1046619c649e6be76c3e8746f0c75af47881513
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kor", "Kor\Kor.csproj", "{70C74504-C5C5-4992-A4FF-F00ADAAF7126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homerseklet_elemzes", "Homerseklet_elemzes\Homerseklet_elemzes.csproj", "{415D4176-81DD-47F6-B694-0B309EC17AEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,23 +59,22 @@ Global
 		{F7BEEB1C-EB73-42E8-A148-3DB8C96B8D56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7BEEB1C-EB73-42E8-A148-3DB8C96B8D56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7BEEB1C-EB73-42E8-A148-3DB8C96B8D56}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
-<<<<<<< HEAD
 		{B8063178-720E-430C-B364-DC3F1DFCE42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B8063178-720E-430C-B364-DC3F1DFCE42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8063178-720E-430C-B364-DC3F1DFCE42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8063178-720E-430C-B364-DC3F1DFCE42C}.Release|Any CPU.Build.0 = Release|Any CPU
-=======
-=======
->>>>>>> c1046619c649e6be76c3e8746f0c75af47881513
 		{DA385DD5-70CE-4750-BDF8-03915D70F5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DA385DD5-70CE-4750-BDF8-03915D70F5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA385DD5-70CE-4750-BDF8-03915D70F5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA385DD5-70CE-4750-BDF8-03915D70F5B9}.Release|Any CPU.Build.0 = Release|Any CPU
-<<<<<<< HEAD
->>>>>>> c1046619c649e6be76c3e8746f0c75af47881513
-=======
->>>>>>> c1046619c649e6be76c3e8746f0c75af47881513
+		{70C74504-C5C5-4992-A4FF-F00ADAAF7126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C74504-C5C5-4992-A4FF-F00ADAAF7126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C74504-C5C5-4992-A4FF-F00ADAAF7126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C74504-C5C5-4992-A4FF-F00ADAAF7126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{415D4176-81DD-47F6-B694-0B309EC17AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{415D4176-81DD-47F6-B694-0B309EC17AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{415D4176-81DD-47F6-B694-0B309EC17AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{415D4176-81DD-47F6-B694-0B309EC17AEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
