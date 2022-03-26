@@ -40,6 +40,14 @@
       "ProjectGuid": "b8063178-720e-430c-b364-dc3f1dfce42c",
       "DisplayName": "RegularExpressions",
       "ColorIndex": 7
+<<<<<<< HEAD
+=======
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+>>>>>>> 1722b50d769c00ebff6c05ae1af878a62927b941
     }
   },
   "NextColorIndex": 8
