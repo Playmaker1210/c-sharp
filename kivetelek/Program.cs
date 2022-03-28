@@ -3,9 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace kivetelek {
     internal class Program {
+        public void fajl_letrehozas() {
+            try {
+                StreamWriter writer = new StreamWriter(@"test.txt", false, Encoding.Default);
+                writer.WriteLine("sor1");
+                writer.WriteLine("sor2");
+                writer.Close();
+            } catch (Exception e) {
+
+                throw;
+            }
+        }
+
         static void Main(string[] args) {
             //try catch blokk
             int[] arr = new int[2];
@@ -41,7 +54,25 @@ namespace kivetelek {
                 throw;
             }
 
+            //Leggyakrabban elofordulo kivetelek
+            //FileNotFoundException
+            //Ez a kivetel akkor fordul elo amikor a beolvasott fajl:
+            //nem letezik vagy rossz eleresi utvonalat adtunk meg
+            //ahhoz hogy hasznaljuk ezt a kivetelt importalni kell a System.IO-t
 
+            //fajl_letrehozas();
+
+            try {
+                StreamReader reader = new StreamReader("test.txt");
+                string s = reader.ReadLine();
+
+            } catch (FileNotFoundException e) {
+
+                Console.WriteLine("A falj nem talalhato!");
+            }
+
+            //IndexOutOfRangeException
+            //Ez akkor fordul elo amikor az index tulmegy a tomb hatarain
 
             Console.ReadKey();
         }
@@ -52,5 +83,6 @@ namespace kivetelek {
             public MyException(string message) : base(message) { }
             public MyException(string message, Exception innerException) : base(message, innerException) { }
 
+        }
     }
 }
