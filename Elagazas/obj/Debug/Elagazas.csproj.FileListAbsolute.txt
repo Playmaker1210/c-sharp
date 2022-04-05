@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\Elagazas\bin\Debug\Elagazas.exe.config
+C:\dev\c#\c-sharp\Elagazas\bin\Debug\Elagazas.exe
+C:\dev\c#\c-sharp\Elagazas\bin\Debug\Elagazas.pdb
+C:\dev\c#\c-sharp\Elagazas\obj\Debug\Elagazas.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Elagazas\obj\Debug\Elagazas.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Elagazas\obj\Debug\Elagazas.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Elagazas\obj\Debug\Elagazas.exe
+C:\dev\c#\c-sharp\Elagazas\obj\Debug\Elagazas.pdb
