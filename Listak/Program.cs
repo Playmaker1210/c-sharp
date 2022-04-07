@@ -9,8 +9,9 @@ namespace Listak {
         static void Main(string[] args) {
             List<int> szamok = new List<int>();
             Random random = new Random();
+            ulong darab = Convert.ToUInt64(Console.ReadLine());
 
-            for (int i = 0; i < random.Next(10,100); i++) {
+            for (ulong i = 0; i < darab; i++) {
                 szamok.Add(random.Next(10, 100));
             }
 
