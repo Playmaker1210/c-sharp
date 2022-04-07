@@ -1,0 +1,8 @@
+C:\dev\c#\Kettes\bin\x64\Release\Kettes.exe.config
+C:\dev\c#\Kettes\bin\x64\Release\Kettes.exe
+C:\dev\c#\Kettes\bin\x64\Release\Kettes.pdb
+C:\dev\c#\Kettes\obj\x64\Release\Kettes.csproj.AssemblyReference.cache
+C:\dev\c#\Kettes\obj\x64\Release\Kettes.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Kettes\obj\x64\Release\Kettes.csproj.CoreCompileInputs.cache
+C:\dev\c#\Kettes\obj\x64\Release\Kettes.exe
+C:\dev\c#\Kettes\obj\x64\Release\Kettes.pdb

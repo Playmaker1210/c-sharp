@@ -1,0 +1,8 @@
+C:\dev\c#\MatrixBill\bin\Debug\MatrixBill.exe.config
+C:\dev\c#\MatrixBill\bin\Debug\MatrixBill.exe
+C:\dev\c#\MatrixBill\bin\Debug\MatrixBill.pdb
+C:\dev\c#\MatrixBill\obj\Debug\MatrixBill.csproj.AssemblyReference.cache
+C:\dev\c#\MatrixBill\obj\Debug\MatrixBill.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\MatrixBill\obj\Debug\MatrixBill.csproj.CoreCompileInputs.cache
+C:\dev\c#\MatrixBill\obj\Debug\MatrixBill.exe
+C:\dev\c#\MatrixBill\obj\Debug\MatrixBill.pdb

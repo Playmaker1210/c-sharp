@@ -1,0 +1,8 @@
+C:\dev\c#\Kor\bin\Debug\Kor.exe.config
+C:\dev\c#\Kor\bin\Debug\Kor.exe
+C:\dev\c#\Kor\bin\Debug\Kor.pdb
+C:\dev\c#\Kor\obj\Debug\Kor.csproj.AssemblyReference.cache
+C:\dev\c#\Kor\obj\Debug\Kor.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Kor\obj\Debug\Kor.csproj.CoreCompileInputs.cache
+C:\dev\c#\Kor\obj\Debug\Kor.exe
+C:\dev\c#\Kor\obj\Debug\Kor.pdb

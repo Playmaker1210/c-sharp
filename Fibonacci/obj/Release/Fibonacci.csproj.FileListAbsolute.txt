@@ -1,0 +1,8 @@
+C:\dev\c#\Fibonacci\bin\Release\Fibonacci.exe.config
+C:\dev\c#\Fibonacci\bin\Release\Fibonacci.exe
+C:\dev\c#\Fibonacci\bin\Release\Fibonacci.pdb
+C:\dev\c#\Fibonacci\obj\Release\Fibonacci.csproj.AssemblyReference.cache
+C:\dev\c#\Fibonacci\obj\Release\Fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Fibonacci\obj\Release\Fibonacci.csproj.CoreCompileInputs.cache
+C:\dev\c#\Fibonacci\obj\Release\Fibonacci.exe
+C:\dev\c#\Fibonacci\obj\Release\Fibonacci.pdb

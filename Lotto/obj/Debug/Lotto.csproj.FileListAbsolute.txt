@@ -6,3 +6,11 @@ C:\dev\c#\c-sharp\Lotto\obj\Debug\Lotto.csproj.SuggestedBindingRedirects.cache
 C:\dev\c#\c-sharp\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\Lotto\obj\Debug\Lotto.exe
 C:\dev\c#\c-sharp\Lotto\obj\Debug\Lotto.pdb
+C:\dev\c#\Lotto\bin\Debug\Lotto.exe.config
+C:\dev\c#\Lotto\bin\Debug\Lotto.exe
+C:\dev\c#\Lotto\bin\Debug\Lotto.pdb
+C:\dev\c#\Lotto\obj\Debug\Lotto.csproj.AssemblyReference.cache
+C:\dev\c#\Lotto\obj\Debug\Lotto.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Lotto\obj\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\dev\c#\Lotto\obj\Debug\Lotto.exe
+C:\dev\c#\Lotto\obj\Debug\Lotto.pdb

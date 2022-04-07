@@ -1,0 +1,8 @@
+C:\dev\c#\AtlagHom\bin\x64\Release\AtlagHom.exe.config
+C:\dev\c#\AtlagHom\bin\x64\Release\AtlagHom.exe
+C:\dev\c#\AtlagHom\bin\x64\Release\AtlagHom.pdb
+C:\dev\c#\AtlagHom\obj\x64\Release\AtlagHom.csproj.AssemblyReference.cache
+C:\dev\c#\AtlagHom\obj\x64\Release\AtlagHom.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\AtlagHom\obj\x64\Release\AtlagHom.csproj.CoreCompileInputs.cache
+C:\dev\c#\AtlagHom\obj\x64\Release\AtlagHom.exe
+C:\dev\c#\AtlagHom\obj\x64\Release\AtlagHom.pdb

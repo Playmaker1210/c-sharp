@@ -1,0 +1,8 @@
+C:\dev\c#\Szamrendszer\bin\Release\Szamrendszer.exe.config
+C:\dev\c#\Szamrendszer\bin\Release\Szamrendszer.exe
+C:\dev\c#\Szamrendszer\bin\Release\Szamrendszer.pdb
+C:\dev\c#\Szamrendszer\obj\Release\Szamrendszer.csproj.AssemblyReference.cache
+C:\dev\c#\Szamrendszer\obj\Release\Szamrendszer.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Szamrendszer\obj\Release\Szamrendszer.csproj.CoreCompileInputs.cache
+C:\dev\c#\Szamrendszer\obj\Release\Szamrendszer.exe
+C:\dev\c#\Szamrendszer\obj\Release\Szamrendszer.pdb

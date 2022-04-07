@@ -1,0 +1,8 @@
+C:\dev\c#\Sorozatok\bin\x64\Debug\Sorozatok.exe.config
+C:\dev\c#\Sorozatok\bin\x64\Debug\Sorozatok.exe
+C:\dev\c#\Sorozatok\bin\x64\Debug\Sorozatok.pdb
+C:\dev\c#\Sorozatok\obj\x64\Debug\Sorozatok.csproj.AssemblyReference.cache
+C:\dev\c#\Sorozatok\obj\x64\Debug\Sorozatok.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Sorozatok\obj\x64\Debug\Sorozatok.csproj.CoreCompileInputs.cache
+C:\dev\c#\Sorozatok\obj\x64\Debug\Sorozatok.exe
+C:\dev\c#\Sorozatok\obj\x64\Debug\Sorozatok.pdb

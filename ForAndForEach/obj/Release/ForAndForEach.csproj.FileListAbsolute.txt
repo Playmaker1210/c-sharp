@@ -1,0 +1,8 @@
+C:\dev\c#\ForAndForEach\bin\Release\ForAndForEach.exe.config
+C:\dev\c#\ForAndForEach\bin\Release\ForAndForEach.exe
+C:\dev\c#\ForAndForEach\bin\Release\ForAndForEach.pdb
+C:\dev\c#\ForAndForEach\obj\Release\ForAndForEach.csproj.AssemblyReference.cache
+C:\dev\c#\ForAndForEach\obj\Release\ForAndForEach.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\ForAndForEach\obj\Release\ForAndForEach.csproj.CoreCompileInputs.cache
+C:\dev\c#\ForAndForEach\obj\Release\ForAndForEach.exe
+C:\dev\c#\ForAndForEach\obj\Release\ForAndForEach.pdb

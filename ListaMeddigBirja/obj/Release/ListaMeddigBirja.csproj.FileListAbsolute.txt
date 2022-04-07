@@ -1,0 +1,8 @@
+C:\dev\c#\ListaMeddigBirja\bin\Release\ListaMeddigBirja.exe.config
+C:\dev\c#\ListaMeddigBirja\bin\Release\ListaMeddigBirja.exe
+C:\dev\c#\ListaMeddigBirja\bin\Release\ListaMeddigBirja.pdb
+C:\dev\c#\ListaMeddigBirja\obj\Release\ListaMeddigBirja.csproj.AssemblyReference.cache
+C:\dev\c#\ListaMeddigBirja\obj\Release\ListaMeddigBirja.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\ListaMeddigBirja\obj\Release\ListaMeddigBirja.csproj.CoreCompileInputs.cache
+C:\dev\c#\ListaMeddigBirja\obj\Release\ListaMeddigBirja.exe
+C:\dev\c#\ListaMeddigBirja\obj\Release\ListaMeddigBirja.pdb

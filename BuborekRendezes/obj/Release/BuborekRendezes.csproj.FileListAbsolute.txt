@@ -1,0 +1,8 @@
+C:\dev\c#\BuborekRendezes\bin\Release\BuborekRendezes.exe.config
+C:\dev\c#\BuborekRendezes\bin\Release\BuborekRendezes.exe
+C:\dev\c#\BuborekRendezes\bin\Release\BuborekRendezes.pdb
+C:\dev\c#\BuborekRendezes\obj\Release\BuborekRendezes.csproj.AssemblyReference.cache
+C:\dev\c#\BuborekRendezes\obj\Release\BuborekRendezes.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\BuborekRendezes\obj\Release\BuborekRendezes.csproj.CoreCompileInputs.cache
+C:\dev\c#\BuborekRendezes\obj\Release\BuborekRendezes.exe
+C:\dev\c#\BuborekRendezes\obj\Release\BuborekRendezes.pdb

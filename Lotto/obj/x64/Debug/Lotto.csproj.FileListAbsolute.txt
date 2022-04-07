@@ -1,0 +1,8 @@
+C:\dev\c#\Lotto\bin\x64\Debug\Lotto.exe.config
+C:\dev\c#\Lotto\bin\x64\Debug\Lotto.exe
+C:\dev\c#\Lotto\bin\x64\Debug\Lotto.pdb
+C:\dev\c#\Lotto\obj\x64\Debug\Lotto.csproj.AssemblyReference.cache
+C:\dev\c#\Lotto\obj\x64\Debug\Lotto.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Lotto\obj\x64\Debug\Lotto.csproj.CoreCompileInputs.cache
+C:\dev\c#\Lotto\obj\x64\Debug\Lotto.exe
+C:\dev\c#\Lotto\obj\x64\Debug\Lotto.pdb

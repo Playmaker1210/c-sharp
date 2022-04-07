@@ -1,0 +1,8 @@
+C:\dev\c#\RekurzivHatvany\bin\x64\Debug\RekurzivHatvany.exe.config
+C:\dev\c#\RekurzivHatvany\bin\x64\Debug\RekurzivHatvany.exe
+C:\dev\c#\RekurzivHatvany\bin\x64\Debug\RekurzivHatvany.pdb
+C:\dev\c#\RekurzivHatvany\obj\x64\Debug\RekurzivHatvany.csproj.AssemblyReference.cache
+C:\dev\c#\RekurzivHatvany\obj\x64\Debug\RekurzivHatvany.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\RekurzivHatvany\obj\x64\Debug\RekurzivHatvany.csproj.CoreCompileInputs.cache
+C:\dev\c#\RekurzivHatvany\obj\x64\Debug\RekurzivHatvany.exe
+C:\dev\c#\RekurzivHatvany\obj\x64\Debug\RekurzivHatvany.pdb
