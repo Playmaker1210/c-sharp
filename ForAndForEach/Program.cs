@@ -17,7 +17,7 @@ namespace ForAndForEach {
             for (int i = 0; i < list.Count; i++) {
                 Console.WriteLine(list[i]);
             }
-            Console.WriteLine();
+            Console.WriteLine("\nforeach:");
 
             foreach(int i in list) {
                 Console.WriteLine(i);
