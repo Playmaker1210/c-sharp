@@ -1,0 +1,8 @@
+C:\dev\c#\Sakk\Sakk\bin\x64\Debug\Sakk.exe.config
+C:\dev\c#\Sakk\Sakk\bin\x64\Debug\Sakk.exe
+C:\dev\c#\Sakk\Sakk\bin\x64\Debug\Sakk.pdb
+C:\dev\c#\Sakk\Sakk\obj\x64\Debug\Sakk.csproj.AssemblyReference.cache
+C:\dev\c#\Sakk\Sakk\obj\x64\Debug\Sakk.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Sakk\Sakk\obj\x64\Debug\Sakk.csproj.CoreCompileInputs.cache
+C:\dev\c#\Sakk\Sakk\obj\x64\Debug\Sakk.exe
+C:\dev\c#\Sakk\Sakk\obj\x64\Debug\Sakk.pdb
