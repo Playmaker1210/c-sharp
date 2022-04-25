@@ -1,0 +1,8 @@
+C:\dev\c#\Szigetek\bin\x64\Release\Szigetek.exe.config
+C:\dev\c#\Szigetek\bin\x64\Release\Szigetek.exe
+C:\dev\c#\Szigetek\bin\x64\Release\Szigetek.pdb
+C:\dev\c#\Szigetek\obj\x64\Release\Szigetek.csproj.AssemblyReference.cache
+C:\dev\c#\Szigetek\obj\x64\Release\Szigetek.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Szigetek\obj\x64\Release\Szigetek.csproj.CoreCompileInputs.cache
+C:\dev\c#\Szigetek\obj\x64\Release\Szigetek.exe
+C:\dev\c#\Szigetek\obj\x64\Release\Szigetek.pdb

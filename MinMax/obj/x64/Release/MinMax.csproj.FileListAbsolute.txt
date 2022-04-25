@@ -1,0 +1,8 @@
+C:\dev\c#\MinMax\bin\x64\Release\MinMax.exe.config
+C:\dev\c#\MinMax\bin\x64\Release\MinMax.exe
+C:\dev\c#\MinMax\bin\x64\Release\MinMax.pdb
+C:\dev\c#\MinMax\obj\x64\Release\MinMax.csproj.AssemblyReference.cache
+C:\dev\c#\MinMax\obj\x64\Release\MinMax.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\MinMax\obj\x64\Release\MinMax.csproj.CoreCompileInputs.cache
+C:\dev\c#\MinMax\obj\x64\Release\MinMax.exe
+C:\dev\c#\MinMax\obj\x64\Release\MinMax.pdb

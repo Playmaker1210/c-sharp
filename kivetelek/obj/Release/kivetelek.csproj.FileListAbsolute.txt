@@ -1,0 +1,8 @@
+C:\dev\c#\kivetelek\bin\Release\kivetelek.exe.config
+C:\dev\c#\kivetelek\bin\Release\kivetelek.exe
+C:\dev\c#\kivetelek\bin\Release\kivetelek.pdb
+C:\dev\c#\kivetelek\obj\Release\kivetelek.csproj.AssemblyReference.cache
+C:\dev\c#\kivetelek\obj\Release\kivetelek.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\kivetelek\obj\Release\kivetelek.csproj.CoreCompileInputs.cache
+C:\dev\c#\kivetelek\obj\Release\kivetelek.exe
+C:\dev\c#\kivetelek\obj\Release\kivetelek.pdb

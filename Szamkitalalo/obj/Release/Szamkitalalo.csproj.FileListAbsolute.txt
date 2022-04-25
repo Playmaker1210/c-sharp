@@ -1,0 +1,8 @@
+C:\dev\c#\Szamkitalalo\bin\Release\Szamkitalalo.exe.config
+C:\dev\c#\Szamkitalalo\bin\Release\Szamkitalalo.exe
+C:\dev\c#\Szamkitalalo\bin\Release\Szamkitalalo.pdb
+C:\dev\c#\Szamkitalalo\obj\Release\Szamkitalalo.csproj.AssemblyReference.cache
+C:\dev\c#\Szamkitalalo\obj\Release\Szamkitalalo.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Szamkitalalo\obj\Release\Szamkitalalo.csproj.CoreCompileInputs.cache
+C:\dev\c#\Szamkitalalo\obj\Release\Szamkitalalo.exe
+C:\dev\c#\Szamkitalalo\obj\Release\Szamkitalalo.pdb

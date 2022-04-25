@@ -6,3 +6,11 @@ C:\dev\c#\c-sharp\Sorozatok\obj\Debug\Sorozatok.csproj.SuggestedBindingRedirects
 C:\dev\c#\c-sharp\Sorozatok\obj\Debug\Sorozatok.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\Sorozatok\obj\Debug\Sorozatok.exe
 C:\dev\c#\c-sharp\Sorozatok\obj\Debug\Sorozatok.pdb
+C:\dev\c#\Sorozatok\bin\Debug\Sorozatok.exe.config
+C:\dev\c#\Sorozatok\bin\Debug\Sorozatok.exe
+C:\dev\c#\Sorozatok\bin\Debug\Sorozatok.pdb
+C:\dev\c#\Sorozatok\obj\Debug\Sorozatok.csproj.AssemblyReference.cache
+C:\dev\c#\Sorozatok\obj\Debug\Sorozatok.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Sorozatok\obj\Debug\Sorozatok.csproj.CoreCompileInputs.cache
+C:\dev\c#\Sorozatok\obj\Debug\Sorozatok.exe
+C:\dev\c#\Sorozatok\obj\Debug\Sorozatok.pdb

@@ -1,0 +1,8 @@
+C:\dev\c#\Listak\bin\Release\Listak.exe.config
+C:\dev\c#\Listak\bin\Release\Listak.exe
+C:\dev\c#\Listak\bin\Release\Listak.pdb
+C:\dev\c#\Listak\obj\Release\Listak.csproj.AssemblyReference.cache
+C:\dev\c#\Listak\obj\Release\Listak.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Listak\obj\Release\Listak.csproj.CoreCompileInputs.cache
+C:\dev\c#\Listak\obj\Release\Listak.exe
+C:\dev\c#\Listak\obj\Release\Listak.pdb

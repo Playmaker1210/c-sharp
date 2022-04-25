@@ -1,0 +1,8 @@
+C:\dev\c#\Menu\bin\x64\Release\Menu.exe.config
+C:\dev\c#\Menu\bin\x64\Release\Menu.exe
+C:\dev\c#\Menu\bin\x64\Release\Menu.pdb
+C:\dev\c#\Menu\obj\x64\Release\Menu.csproj.AssemblyReference.cache
+C:\dev\c#\Menu\obj\x64\Release\Menu.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Menu\obj\x64\Release\Menu.csproj.CoreCompileInputs.cache
+C:\dev\c#\Menu\obj\x64\Release\Menu.exe
+C:\dev\c#\Menu\obj\x64\Release\Menu.pdb

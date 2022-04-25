@@ -1,0 +1,8 @@
+C:\dev\c#\Homerseklet_elemzes\bin\Release\Homerseklet_elemzes.exe.config
+C:\dev\c#\Homerseklet_elemzes\bin\Release\Homerseklet_elemzes.exe
+C:\dev\c#\Homerseklet_elemzes\bin\Release\Homerseklet_elemzes.pdb
+C:\dev\c#\Homerseklet_elemzes\obj\Release\Homerseklet_elemzes.csproj.AssemblyReference.cache
+C:\dev\c#\Homerseklet_elemzes\obj\Release\Homerseklet_elemzes.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Homerseklet_elemzes\obj\Release\Homerseklet_elemzes.csproj.CoreCompileInputs.cache
+C:\dev\c#\Homerseklet_elemzes\obj\Release\Homerseklet_elemzes.exe
+C:\dev\c#\Homerseklet_elemzes\obj\Release\Homerseklet_elemzes.pdb

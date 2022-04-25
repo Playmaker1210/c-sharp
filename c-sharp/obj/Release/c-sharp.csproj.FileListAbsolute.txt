@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\bin\Release\c-sharp.exe.config
+C:\dev\c#\c-sharp\bin\Release\c-sharp.exe
+C:\dev\c#\c-sharp\bin\Release\c-sharp.pdb
+C:\dev\c#\c-sharp\obj\Release\c-sharp.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\obj\Release\c-sharp.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\obj\Release\c-sharp.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\obj\Release\c-sharp.exe
+C:\dev\c#\c-sharp\obj\Release\c-sharp.pdb

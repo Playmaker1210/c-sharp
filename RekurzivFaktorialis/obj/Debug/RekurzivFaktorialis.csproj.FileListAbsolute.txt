@@ -6,3 +6,11 @@ C:\dev\c#\c-sharp\RekurzivFaktorialis\obj\Debug\RekurzivFaktorialis.csproj.Sugge
 C:\dev\c#\c-sharp\RekurzivFaktorialis\obj\Debug\RekurzivFaktorialis.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\RekurzivFaktorialis\obj\Debug\RekurzivFaktorialis.exe
 C:\dev\c#\c-sharp\RekurzivFaktorialis\obj\Debug\RekurzivFaktorialis.pdb
+C:\dev\c#\RekurzivFaktorialis\bin\Debug\RekurzivFaktorialis.exe.config
+C:\dev\c#\RekurzivFaktorialis\bin\Debug\RekurzivFaktorialis.exe
+C:\dev\c#\RekurzivFaktorialis\bin\Debug\RekurzivFaktorialis.pdb
+C:\dev\c#\RekurzivFaktorialis\obj\Debug\RekurzivFaktorialis.csproj.AssemblyReference.cache
+C:\dev\c#\RekurzivFaktorialis\obj\Debug\RekurzivFaktorialis.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\RekurzivFaktorialis\obj\Debug\RekurzivFaktorialis.csproj.CoreCompileInputs.cache
+C:\dev\c#\RekurzivFaktorialis\obj\Debug\RekurzivFaktorialis.exe
+C:\dev\c#\RekurzivFaktorialis\obj\Debug\RekurzivFaktorialis.pdb

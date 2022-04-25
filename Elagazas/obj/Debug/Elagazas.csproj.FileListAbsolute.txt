@@ -6,3 +6,11 @@ C:\dev\c#\c-sharp\Elagazas\obj\Debug\Elagazas.csproj.SuggestedBindingRedirects.c
 C:\dev\c#\c-sharp\Elagazas\obj\Debug\Elagazas.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\Elagazas\obj\Debug\Elagazas.exe
 C:\dev\c#\c-sharp\Elagazas\obj\Debug\Elagazas.pdb
+C:\dev\c#\Elagazas\bin\Debug\Elagazas.exe.config
+C:\dev\c#\Elagazas\bin\Debug\Elagazas.exe
+C:\dev\c#\Elagazas\bin\Debug\Elagazas.pdb
+C:\dev\c#\Elagazas\obj\Debug\Elagazas.csproj.AssemblyReference.cache
+C:\dev\c#\Elagazas\obj\Debug\Elagazas.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Elagazas\obj\Debug\Elagazas.csproj.CoreCompileInputs.cache
+C:\dev\c#\Elagazas\obj\Debug\Elagazas.exe
+C:\dev\c#\Elagazas\obj\Debug\Elagazas.pdb

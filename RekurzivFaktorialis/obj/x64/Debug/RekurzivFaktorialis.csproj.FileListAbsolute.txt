@@ -1,0 +1,8 @@
+C:\dev\c#\RekurzivFaktorialis\bin\x64\Debug\RekurzivFaktorialis.exe.config
+C:\dev\c#\RekurzivFaktorialis\bin\x64\Debug\RekurzivFaktorialis.exe
+C:\dev\c#\RekurzivFaktorialis\bin\x64\Debug\RekurzivFaktorialis.pdb
+C:\dev\c#\RekurzivFaktorialis\obj\x64\Debug\RekurzivFaktorialis.csproj.AssemblyReference.cache
+C:\dev\c#\RekurzivFaktorialis\obj\x64\Debug\RekurzivFaktorialis.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\RekurzivFaktorialis\obj\x64\Debug\RekurzivFaktorialis.csproj.CoreCompileInputs.cache
+C:\dev\c#\RekurzivFaktorialis\obj\x64\Debug\RekurzivFaktorialis.exe
+C:\dev\c#\RekurzivFaktorialis\obj\x64\Debug\RekurzivFaktorialis.pdb

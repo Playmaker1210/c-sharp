@@ -1,0 +1,8 @@
+C:\dev\c#\Binaris\bin\x64\Debug\Binaris.exe.config
+C:\dev\c#\Binaris\bin\x64\Debug\Binaris.exe
+C:\dev\c#\Binaris\bin\x64\Debug\Binaris.pdb
+C:\dev\c#\Binaris\obj\x64\Debug\Binaris.csproj.AssemblyReference.cache
+C:\dev\c#\Binaris\obj\x64\Debug\Binaris.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Binaris\obj\x64\Debug\Binaris.csproj.CoreCompileInputs.cache
+C:\dev\c#\Binaris\obj\x64\Debug\Binaris.exe
+C:\dev\c#\Binaris\obj\x64\Debug\Binaris.pdb

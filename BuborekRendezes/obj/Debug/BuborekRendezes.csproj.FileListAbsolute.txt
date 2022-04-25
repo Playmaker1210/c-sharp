@@ -13,3 +13,4 @@ C:\dev\c#\c-sharp\BuborekRendezes\obj\Debug\BuborekRendezes.csproj.SuggestedBind
 C:\dev\c#\c-sharp\BuborekRendezes\obj\Debug\BuborekRendezes.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\BuborekRendezes\obj\Debug\BuborekRendezes.exe
 C:\dev\c#\c-sharp\BuborekRendezes\obj\Debug\BuborekRendezes.pdb
+C:\dev\c#\BuborekRendezes\obj\Debug\BuborekRendezes.csproj.AssemblyReference.cache
