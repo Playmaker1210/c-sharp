@@ -1,0 +1,8 @@
+C:\dev\c#\csv\bin\Release\csv.exe.config
+C:\dev\c#\csv\bin\Release\csv.exe
+C:\dev\c#\csv\bin\Release\csv.pdb
+C:\dev\c#\csv\obj\Release\csv.csproj.AssemblyReference.cache
+C:\dev\c#\csv\obj\Release\csv.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\csv\obj\Release\csv.csproj.CoreCompileInputs.cache
+C:\dev\c#\csv\obj\Release\csv.exe
+C:\dev\c#\csv\obj\Release\csv.pdb

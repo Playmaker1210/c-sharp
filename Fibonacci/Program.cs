@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Fibonacci {
     internal class Program {
-        public static ulong fibonacci(int darab) {
+        /*public static ulong fibonacci(int darab) {
             if ((darab == 0) || (darab == 1)) {
                 return Convert.ToUInt64(darab);
             } else {
                 return fibonacci(darab - 1) + fibonacci(darab - 2);
             }
-        }
+        }*/
 
         static void Main(string[] args) {
             Console.WriteLine("Adja meg hány számot akar látni");
