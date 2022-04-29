@@ -6,3 +6,11 @@ C:\dev\c#\Kor\obj\x64\Debug\Kor.csproj.SuggestedBindingRedirects.cache
 C:\dev\c#\Kor\obj\x64\Debug\Kor.csproj.CoreCompileInputs.cache
 C:\dev\c#\Kor\obj\x64\Debug\Kor.exe
 C:\dev\c#\Kor\obj\x64\Debug\Kor.pdb
+C:\dev\c#\c-sharp\Kor\bin\x64\Debug\Kor.exe.config
+C:\dev\c#\c-sharp\Kor\bin\x64\Debug\Kor.exe
+C:\dev\c#\c-sharp\Kor\bin\x64\Debug\Kor.pdb
+C:\dev\c#\c-sharp\Kor\obj\x64\Debug\Kor.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Kor\obj\x64\Debug\Kor.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Kor\obj\x64\Debug\Kor.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Kor\obj\x64\Debug\Kor.exe
+C:\dev\c#\c-sharp\Kor\obj\x64\Debug\Kor.pdb

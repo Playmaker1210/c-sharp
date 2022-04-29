@@ -6,3 +6,11 @@ C:\dev\c#\Menu\obj\x64\Debug\Menu.csproj.SuggestedBindingRedirects.cache
 C:\dev\c#\Menu\obj\x64\Debug\Menu.csproj.CoreCompileInputs.cache
 C:\dev\c#\Menu\obj\x64\Debug\Menu.exe
 C:\dev\c#\Menu\obj\x64\Debug\Menu.pdb
+C:\dev\c#\c-sharp\Menu\bin\x64\Debug\Menu.exe.config
+C:\dev\c#\c-sharp\Menu\bin\x64\Debug\Menu.exe
+C:\dev\c#\c-sharp\Menu\bin\x64\Debug\Menu.pdb
+C:\dev\c#\c-sharp\Menu\obj\x64\Debug\Menu.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Menu\obj\x64\Debug\Menu.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Menu\obj\x64\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Menu\obj\x64\Debug\Menu.exe
+C:\dev\c#\c-sharp\Menu\obj\x64\Debug\Menu.pdb

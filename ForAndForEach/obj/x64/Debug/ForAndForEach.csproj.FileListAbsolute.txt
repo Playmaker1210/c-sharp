@@ -6,3 +6,11 @@ C:\dev\c#\ForAndForEach\obj\x64\Debug\ForAndForEach.csproj.SuggestedBindingRedir
 C:\dev\c#\ForAndForEach\obj\x64\Debug\ForAndForEach.csproj.CoreCompileInputs.cache
 C:\dev\c#\ForAndForEach\obj\x64\Debug\ForAndForEach.exe
 C:\dev\c#\ForAndForEach\obj\x64\Debug\ForAndForEach.pdb
+C:\dev\c#\c-sharp\ForAndForEach\bin\x64\Debug\ForAndForEach.exe.config
+C:\dev\c#\c-sharp\ForAndForEach\bin\x64\Debug\ForAndForEach.exe
+C:\dev\c#\c-sharp\ForAndForEach\bin\x64\Debug\ForAndForEach.pdb
+C:\dev\c#\c-sharp\ForAndForEach\obj\x64\Debug\ForAndForEach.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\ForAndForEach\obj\x64\Debug\ForAndForEach.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\ForAndForEach\obj\x64\Debug\ForAndForEach.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\ForAndForEach\obj\x64\Debug\ForAndForEach.exe
+C:\dev\c#\c-sharp\ForAndForEach\obj\x64\Debug\ForAndForEach.pdb

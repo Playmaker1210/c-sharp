@@ -6,3 +6,11 @@ C:\dev\c#\Kettes\obj\x64\Debug\Kettes.csproj.SuggestedBindingRedirects.cache
 C:\dev\c#\Kettes\obj\x64\Debug\Kettes.csproj.CoreCompileInputs.cache
 C:\dev\c#\Kettes\obj\x64\Debug\Kettes.exe
 C:\dev\c#\Kettes\obj\x64\Debug\Kettes.pdb
+C:\dev\c#\c-sharp\Kettes\bin\x64\Debug\Kettes.exe.config
+C:\dev\c#\c-sharp\Kettes\bin\x64\Debug\Kettes.exe
+C:\dev\c#\c-sharp\Kettes\bin\x64\Debug\Kettes.pdb
+C:\dev\c#\c-sharp\Kettes\obj\x64\Debug\Kettes.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Kettes\obj\x64\Debug\Kettes.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Kettes\obj\x64\Debug\Kettes.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Kettes\obj\x64\Debug\Kettes.exe
+C:\dev\c#\c-sharp\Kettes\obj\x64\Debug\Kettes.pdb

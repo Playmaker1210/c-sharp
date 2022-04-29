@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\Negyszog\bin\Debug\Negyszog.exe.config
+C:\dev\c#\c-sharp\Negyszog\bin\Debug\Negyszog.exe
+C:\dev\c#\c-sharp\Negyszog\bin\Debug\Negyszog.pdb
+C:\dev\c#\c-sharp\Negyszog\obj\Debug\Negyszog.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Negyszog\obj\Debug\Negyszog.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Negyszog\obj\Debug\Negyszog.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Negyszog\obj\Debug\Negyszog.exe
+C:\dev\c#\c-sharp\Negyszog\obj\Debug\Negyszog.pdb

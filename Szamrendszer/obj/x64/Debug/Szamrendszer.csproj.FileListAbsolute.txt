@@ -6,3 +6,11 @@ C:\dev\c#\Szamrendszer\obj\x64\Debug\Szamrendszer.csproj.SuggestedBindingRedirec
 C:\dev\c#\Szamrendszer\obj\x64\Debug\Szamrendszer.csproj.CoreCompileInputs.cache
 C:\dev\c#\Szamrendszer\obj\x64\Debug\Szamrendszer.exe
 C:\dev\c#\Szamrendszer\obj\x64\Debug\Szamrendszer.pdb
+C:\dev\c#\c-sharp\Szamrendszer\bin\x64\Debug\Szamrendszer.exe.config
+C:\dev\c#\c-sharp\Szamrendszer\bin\x64\Debug\Szamrendszer.exe
+C:\dev\c#\c-sharp\Szamrendszer\bin\x64\Debug\Szamrendszer.pdb
+C:\dev\c#\c-sharp\Szamrendszer\obj\x64\Debug\Szamrendszer.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Szamrendszer\obj\x64\Debug\Szamrendszer.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Szamrendszer\obj\x64\Debug\Szamrendszer.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Szamrendszer\obj\x64\Debug\Szamrendszer.exe
+C:\dev\c#\c-sharp\Szamrendszer\obj\x64\Debug\Szamrendszer.pdb

@@ -6,3 +6,11 @@ C:\dev\c#\Fibonacci\obj\x64\Debug\Fibonacci.csproj.SuggestedBindingRedirects.cac
 C:\dev\c#\Fibonacci\obj\x64\Debug\Fibonacci.csproj.CoreCompileInputs.cache
 C:\dev\c#\Fibonacci\obj\x64\Debug\Fibonacci.exe
 C:\dev\c#\Fibonacci\obj\x64\Debug\Fibonacci.pdb
+C:\dev\c#\c-sharp\Fibonacci\bin\x64\Debug\Fibonacci.exe.config
+C:\dev\c#\c-sharp\Fibonacci\bin\x64\Debug\Fibonacci.exe
+C:\dev\c#\c-sharp\Fibonacci\bin\x64\Debug\Fibonacci.pdb
+C:\dev\c#\c-sharp\Fibonacci\obj\x64\Debug\Fibonacci.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Fibonacci\obj\x64\Debug\Fibonacci.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Fibonacci\obj\x64\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Fibonacci\obj\x64\Debug\Fibonacci.exe
+C:\dev\c#\c-sharp\Fibonacci\obj\x64\Debug\Fibonacci.pdb

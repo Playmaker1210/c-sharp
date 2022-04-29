@@ -6,3 +6,11 @@ C:\dev\c#\Szigetek\obj\x64\Debug\Szigetek.csproj.SuggestedBindingRedirects.cache
 C:\dev\c#\Szigetek\obj\x64\Debug\Szigetek.csproj.CoreCompileInputs.cache
 C:\dev\c#\Szigetek\obj\x64\Debug\Szigetek.exe
 C:\dev\c#\Szigetek\obj\x64\Debug\Szigetek.pdb
+C:\dev\c#\c-sharp\Szigetek\bin\x64\Debug\Szigetek.exe.config
+C:\dev\c#\c-sharp\Szigetek\bin\x64\Debug\Szigetek.exe
+C:\dev\c#\c-sharp\Szigetek\bin\x64\Debug\Szigetek.pdb
+C:\dev\c#\c-sharp\Szigetek\obj\x64\Debug\Szigetek.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Szigetek\obj\x64\Debug\Szigetek.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Szigetek\obj\x64\Debug\Szigetek.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Szigetek\obj\x64\Debug\Szigetek.exe
+C:\dev\c#\c-sharp\Szigetek\obj\x64\Debug\Szigetek.pdb

@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\ConsoleWrite\bin\Debug\ConsoleWrite.exe.config
+C:\dev\c#\c-sharp\ConsoleWrite\bin\Debug\ConsoleWrite.exe
+C:\dev\c#\c-sharp\ConsoleWrite\bin\Debug\ConsoleWrite.pdb
+C:\dev\c#\c-sharp\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\ConsoleWrite\obj\Debug\ConsoleWrite.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\ConsoleWrite\obj\Debug\ConsoleWrite.exe
+C:\dev\c#\c-sharp\ConsoleWrite\obj\Debug\ConsoleWrite.pdb
