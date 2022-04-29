@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negyszog", "Negyszog\Negysz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegyszogUnitTest", "NegyszogUnitTest\NegyszogUnitTest.csproj", "{2933E8F3-3C69-4429-AC6A-7875DB77DAD6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csv", "csv\csv.csproj", "{D8C331C6-6363-4C0B-91AA-71CC8A27EE6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -269,6 +271,7 @@ Global
 		{F2CDBA8F-B782-4B1C-A5E6-0EBE9F1AE3C2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F2CDBA8F-B782-4B1C-A5E6-0EBE9F1AE3C2}.Release|x64.ActiveCfg = Release|Any CPU
 		{F2CDBA8F-B782-4B1C-A5E6-0EBE9F1AE3C2}.Release|x64.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{95611FCF-2765-4679-86FA-1212921A0D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{95611FCF-2765-4679-86FA-1212921A0D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95611FCF-2765-4679-86FA-1212921A0D06}.Debug|x64.ActiveCfg = Debug|Any CPU
@@ -301,6 +304,20 @@ Global
 		{2933E8F3-3C69-4429-AC6A-7875DB77DAD6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{2933E8F3-3C69-4429-AC6A-7875DB77DAD6}.Release|x64.ActiveCfg = Release|Any CPU
 		{2933E8F3-3C69-4429-AC6A-7875DB77DAD6}.Release|x64.Build.0 = Release|Any CPU
+=======
+<<<<<<< HEAD
+		{D8C331C6-6363-4C0B-91AA-71CC8A27EE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C331C6-6363-4C0B-91AA-71CC8A27EE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C331C6-6363-4C0B-91AA-71CC8A27EE6B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D8C331C6-6363-4C0B-91AA-71CC8A27EE6B}.Debug|x64.Build.0 = Debug|Any CPU
+		{D8C331C6-6363-4C0B-91AA-71CC8A27EE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C331C6-6363-4C0B-91AA-71CC8A27EE6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C331C6-6363-4C0B-91AA-71CC8A27EE6B}.Release|x64.ActiveCfg = Release|Any CPU
+		{D8C331C6-6363-4C0B-91AA-71CC8A27EE6B}.Release|x64.Build.0 = Release|Any CPU
+=======
+>>>>>>> cbdc00b78c8377e68a29aab9c4aa4ff6d7ffe5e0
+>>>>>>> 101aa2fb434556debb8939ef883c8221e1e332b8
+>>>>>>> aa7898d30284c6d163ff6cc64f11ed8f53e33cae
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
