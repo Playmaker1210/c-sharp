@@ -27,5 +27,12 @@ namespace NegyszogUnitTest {
             double kapotEredmeny = negyszog.Atlo();
             Assert.AreEqual(vartEredmeny, kapotEredmeny);
         }
+
+        [TestMethod, ExpectedException(typeof(ArgumentException))]
+        public void TestGetOszlop() {
+            double m = 1;
+            negyszog.getOszlop(m);
+            //Assert.Fail();
+        }
     }
 }
