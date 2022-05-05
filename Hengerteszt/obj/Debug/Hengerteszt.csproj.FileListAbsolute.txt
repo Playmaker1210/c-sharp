@@ -1,0 +1,8 @@
+C:\dev\c#\Hengerteszt\bin\Debug\Hengerteszt.exe.config
+C:\dev\c#\Hengerteszt\bin\Debug\Hengerteszt.exe
+C:\dev\c#\Hengerteszt\bin\Debug\Hengerteszt.pdb
+C:\dev\c#\Hengerteszt\obj\Debug\Hengerteszt.csproj.AssemblyReference.cache
+C:\dev\c#\Hengerteszt\obj\Debug\Hengerteszt.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\Hengerteszt\obj\Debug\Hengerteszt.csproj.CoreCompileInputs.cache
+C:\dev\c#\Hengerteszt\obj\Debug\Hengerteszt.exe
+C:\dev\c#\Hengerteszt\obj\Debug\Hengerteszt.pdb
