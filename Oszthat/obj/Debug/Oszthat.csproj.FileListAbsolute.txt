@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\Oszthat\bin\Debug\Oszthat.exe.config
+C:\dev\c#\c-sharp\Oszthat\bin\Debug\Oszthat.exe
+C:\dev\c#\c-sharp\Oszthat\bin\Debug\Oszthat.pdb
+C:\dev\c#\c-sharp\Oszthat\obj\Debug\Oszthat.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Oszthat\obj\Debug\Oszthat.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Oszthat\obj\Debug\Oszthat.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Oszthat\obj\Debug\Oszthat.exe
+C:\dev\c#\c-sharp\Oszthat\obj\Debug\Oszthat.pdb
