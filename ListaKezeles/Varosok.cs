@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ListaKezeles {
     public class Varosok {
-        List<string> varosok = new List<string>();
-        string db;
+        private List<string> varosok = new List<string>();
+        private string db;
 
         public string setDb() {
             Console.WriteLine("Adja meg hany db adatot akar eltarolni, ha 0-t vagy semmit ir be akkor addig fut a beolvasas amig ures sort nem ad be");
