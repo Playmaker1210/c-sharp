@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\AutoLista\bin\Debug\AutoLista.exe.config
+C:\dev\c#\c-sharp\AutoLista\bin\Debug\AutoLista.exe
+C:\dev\c#\c-sharp\AutoLista\bin\Debug\AutoLista.pdb
+C:\dev\c#\c-sharp\AutoLista\obj\Debug\AutoLista.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\AutoLista\obj\Debug\AutoLista.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\AutoLista\obj\Debug\AutoLista.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\AutoLista\obj\Debug\AutoLista.exe
+C:\dev\c#\c-sharp\AutoLista\obj\Debug\AutoLista.pdb

@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\ListaKezeles\bin\Debug\ListaKezeles.exe.config
+C:\dev\c#\c-sharp\ListaKezeles\bin\Debug\ListaKezeles.exe
+C:\dev\c#\c-sharp\ListaKezeles\bin\Debug\ListaKezeles.pdb
+C:\dev\c#\c-sharp\ListaKezeles\obj\Debug\ListaKezeles.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\ListaKezeles\obj\Debug\ListaKezeles.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\ListaKezeles\obj\Debug\ListaKezeles.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\ListaKezeles\obj\Debug\ListaKezeles.exe
+C:\dev\c#\c-sharp\ListaKezeles\obj\Debug\ListaKezeles.pdb
