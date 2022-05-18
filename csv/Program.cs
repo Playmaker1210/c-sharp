@@ -16,7 +16,7 @@ namespace csv {
             stopwatch.Start();
 
             for (long i = 0; i < 10000000; i++) {
-                for (long j = 0; j < 5; j++) {
+                for (long j = 0; j < 10; j++) {
                     writer.Write(random.Next(-100000, 100000) + ";");
                 }
                 if (i % 1000000 == 0) { Console.WriteLine(i); }
