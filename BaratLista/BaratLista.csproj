@@ -50,5 +50,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BaratFajl\BaratFajl.csproj">
+      <Project>{cc20af08-824e-441a-8c98-3e268919b749}</Project>
+      <Name>BaratFajl</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

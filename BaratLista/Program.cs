@@ -7,18 +7,15 @@ using System.IO;
 
 namespace BaratLista {
     public class Program {
-            
-        public static void beolvas() {
-
-        }
-
         static void Main(string[] args) {
+            BaratFajl.Program.Main();
+
             List<Barat> baratok = new List<Barat>();
 
             StreamReader reader = new StreamReader("baratok.txt", Encoding.Default);
             int c = 0;
             while(!reader.EndOfStream) {
-                if (c % 100000 == 0) Console.WriteLine(c);
+                if (c % 100000 == 0) Console.WriteLine(c + " beolvasva");
                 c++;
                 string input = reader.ReadLine();
                 string[] adatok = input.Split(',');

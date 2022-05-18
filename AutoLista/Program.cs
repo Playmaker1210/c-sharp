@@ -4,15 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
-using System.Windows.Input;
 
 namespace AutoLista {
     internal class Program {
         static void Main(string[] args) {
-            Keyboard keyboard = new Keyboard();
-
-
-
             //lista letrehozas
             ListaGen lista = new ListaGen();
             lista.fajlIras();
@@ -30,7 +25,7 @@ namespace AutoLista {
             }
 
             for (int i = 0; i < autok.Count; i++) {
-                //if (i % 100000 == 0)
+                if (i % 100000 == 0)
                     autok[i].kiir();
             }
 

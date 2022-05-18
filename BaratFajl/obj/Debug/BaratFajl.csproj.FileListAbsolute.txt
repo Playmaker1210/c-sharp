@@ -6,3 +6,11 @@ C:\dev\c#\c-sharp\BaratFajl\bin\Debug\BaratFajl.exe
 C:\dev\c#\c-sharp\BaratFajl\bin\Debug\BaratFajl.pdb
 C:\dev\c#\c-sharp\BaratFajl\obj\Debug\BaratFajl.exe
 C:\dev\c#\c-sharp\BaratFajl\obj\Debug\BaratFajl.pdb
+C:\dev\c#\BaratFajl\bin\Debug\BaratFajl.exe.config
+C:\dev\c#\BaratFajl\bin\Debug\BaratFajl.exe
+C:\dev\c#\BaratFajl\bin\Debug\BaratFajl.pdb
+C:\dev\c#\BaratFajl\obj\Debug\BaratFajl.csproj.AssemblyReference.cache
+C:\dev\c#\BaratFajl\obj\Debug\BaratFajl.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\BaratFajl\obj\Debug\BaratFajl.csproj.CoreCompileInputs.cache
+C:\dev\c#\BaratFajl\obj\Debug\BaratFajl.exe
+C:\dev\c#\BaratFajl\obj\Debug\BaratFajl.pdb

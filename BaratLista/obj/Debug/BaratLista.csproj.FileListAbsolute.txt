@@ -6,3 +6,15 @@ C:\dev\c#\c-sharp\BaratLista\obj\Debug\BaratLista.csproj.SuggestedBindingRedirec
 C:\dev\c#\c-sharp\BaratLista\obj\Debug\BaratLista.csproj.CoreCompileInputs.cache
 C:\dev\c#\c-sharp\BaratLista\obj\Debug\BaratLista.exe
 C:\dev\c#\c-sharp\BaratLista\obj\Debug\BaratLista.pdb
+C:\dev\c#\BaratLista\bin\Debug\BaratLista.exe.config
+C:\dev\c#\BaratLista\bin\Debug\BaratLista.exe
+C:\dev\c#\BaratLista\bin\Debug\BaratLista.pdb
+C:\dev\c#\BaratLista\bin\Debug\BaratFajl.exe
+C:\dev\c#\BaratLista\bin\Debug\BaratFajl.pdb
+C:\dev\c#\BaratLista\bin\Debug\BaratFajl.exe.config
+C:\dev\c#\BaratLista\obj\Debug\BaratLista.csproj.AssemblyReference.cache
+C:\dev\c#\BaratLista\obj\Debug\BaratLista.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\BaratLista\obj\Debug\BaratLista.csproj.CoreCompileInputs.cache
+C:\dev\c#\BaratLista\obj\Debug\BaratLista.csproj.CopyComplete
+C:\dev\c#\BaratLista\obj\Debug\BaratLista.exe
+C:\dev\c#\BaratLista\obj\Debug\BaratLista.pdb

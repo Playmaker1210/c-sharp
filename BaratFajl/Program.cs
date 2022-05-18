@@ -16,7 +16,7 @@ namespace BaratFajl {
             return start.AddDays(gen.Next(range));
         }
 
-        static void Main(string[] args) {
+        public static void Main() {
             Stopwatch stopwatch = Stopwatch.StartNew();
             stopwatch.Start();
             string[] nevek = {
@@ -1024,8 +1024,8 @@ namespace BaratFajl {
             
             StreamWriter writer = new StreamWriter(@"baratok.txt", false, Encoding.Default);
 
-            for (int i = 0;  i < 10000000; i++) {
-                if (i % 100000 == 0) Console.WriteLine(i);
+            for (int i = 0;  i < 1000000; i++) {
+                if (i % 100000 == 0) Console.WriteLine(i + " kiirva");
                 int nev_random = gen.Next(0, 1000);
                 int bulizasi_hajlam = gen.Next(1, 101);
                 writer.WriteLine(nevek[nev_random] + "," + RandomDay().ToShortDateString() + "," + "n," + bulizasi_hajlam);
@@ -1034,9 +1034,6 @@ namespace BaratFajl {
 
             stopwatch.Stop();
             Console.WriteLine("Time:" + stopwatch.Elapsed);
-            Console.ReadKey();
-
-
         }
     }
 }

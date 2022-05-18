@@ -20,7 +20,7 @@ namespace BaratLista {
 
         public void kiir() {
             string ido = szuletes_ido.ToShortDateString();
-            Console.WriteLine("Név: " + nev + " Születési idő: " + ido + " Nem: " + nem + " Bulizasi szam: " + bulizasi_szam);
+            Console.WriteLine("Név: " + nev + "\tSzületési idő: " + ido + "\tNem: " + nem + "\tBulizasi szam: " + bulizasi_szam);
         }
     }
 }

@@ -1,0 +1,8 @@
+C:\dev\c#\KeyTesting\bin\Debug\KeyTesting.exe.config
+C:\dev\c#\KeyTesting\bin\Debug\KeyTesting.exe
+C:\dev\c#\KeyTesting\bin\Debug\KeyTesting.pdb
+C:\dev\c#\KeyTesting\obj\Debug\KeyTesting.csproj.AssemblyReference.cache
+C:\dev\c#\KeyTesting\obj\Debug\KeyTesting.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\KeyTesting\obj\Debug\KeyTesting.csproj.CoreCompileInputs.cache
+C:\dev\c#\KeyTesting\obj\Debug\KeyTesting.exe
+C:\dev\c#\KeyTesting\obj\Debug\KeyTesting.pdb

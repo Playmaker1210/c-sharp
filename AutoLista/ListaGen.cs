@@ -1103,7 +1103,7 @@ namespace AutoLista {
         }
 
         public void fajlIras() {
-            for (int i = 0; i < 10000000; i++) {
+            for (int i = 0; i < 100000; i++) {
                 if (i % 100000 == 0) { Console.WriteLine("Sor letrehozva: " + i); }
                 writer.WriteLine(rendszamGen()+ "," + tipus() + "," + RandomDay().ToShortDateString()+ "," +  random.Next(0,6)+ "," +  nevek[random.Next(0,1000)]);
             }
