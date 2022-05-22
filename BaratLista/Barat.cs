@@ -18,6 +18,18 @@ namespace BaratLista {
             this.bulizasi_szam = b_szam;
         }
 
+        public DateTime getSzuletes() {
+            return szuletes_ido;
+        }
+
+        public string getNev() {
+            return nev;
+        }
+
+        public int getBulizasi_szam() {
+            return bulizasi_szam;
+        }
+
         public void kiir() {
             string ido = szuletes_ido.ToShortDateString();
             Console.WriteLine("Név: " + nev + "\tSzületési idő: " + ido + "\tNem: " + nem + "\tBulizasi szam: " + bulizasi_szam);

@@ -1024,10 +1024,10 @@ namespace BaratFajl {
             
             StreamWriter writer = new StreamWriter(@"baratok.txt", false, Encoding.Default);
 
-            for (int i = 0;  i < 1000000; i++) {
+            for (int i = 0;  i < 10000; i++) {
                 if (i % 100000 == 0) Console.WriteLine(i + " kiirva");
                 int nev_random = gen.Next(0, 1000);
-                int bulizasi_hajlam = gen.Next(1, 101);
+                int bulizasi_hajlam = gen.Next(1, 11);
                 writer.WriteLine(nevek[nev_random] + "," + RandomDay().ToShortDateString() + "," + "n," + bulizasi_hajlam);
             }
             writer.Close();
