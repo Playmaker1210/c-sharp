@@ -6,13 +6,14 @@ using System.Threading.Tasks;
 
 namespace calculator
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Kalkulatorr cal = new Kalkulatorr();
-            cal.beker();
-            cal.kiir();
+            Kalkulatorr cal = new Kalkulatorr(5,5,'+');
+            //cal.beker();
+            Console.WriteLine(cal.szamolas());
+            Console.ReadKey();
         }
     }
 }

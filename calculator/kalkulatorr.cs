@@ -7,41 +7,33 @@ using System.Threading.Tasks;
 namespace calculator
 {
     public class Kalkulatorr
-    {
-        
+    { 
         private int szam1 = 0;
         private int szam2 = 0;
         private char muvjel;
         private int eredm = 0;
-        private string uzen = "A művelet eredménye: ";
+        private string uzen;
 
-        public Kalkulatorr()
-        {
-        }
-
-        public Kalkulatorr(int szam1, int szam2, char muvjel, int eredm, string uzen)
+        public Kalkulatorr(int szam1, int szam2, char muvjel)
         {
             this.szam1 = szam1;
             this.szam2 = szam2;
             this.muvjel = muvjel;
-            this.eredm = eredm;
-            this.uzen = uzen;
         }
         public void beker()
         {
-
             Console.WriteLine("Adja meg az első számot");
-            szam1 = 4; //int.Parse(Console.ReadLine());
+            szam1 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Adja meg a második számot");
-            szam2 = 4; //int.Parse(Console.ReadLine());
+            szam2 = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Adja meg a műveleti jelet");
-            muvjel = '+'; //Convert.ToChar(Console.Read());
+            muvjel = Convert.ToChar(Console.Read());
         }
-        public int kiir()
+        
+        public int szamolas()
         {
-
             switch (muvjel)
             {
                 case '+':
@@ -49,7 +41,7 @@ namespace calculator
                     break;
 
                 case '-':
-                    eredm = szam1 +-szam2;
+                    eredm = szam1 - szam2;
                     break;
 
                 case '*':
@@ -63,13 +55,9 @@ namespace calculator
                 default:
                     uzen = "Hibás műveleti jel";
                     break;
-
             }
-            Console.WriteLine(uzen + eredm);
-            
-            Console.ReadKey();
-            return eredm;
 
+            return eredm;
         }
     }
 }

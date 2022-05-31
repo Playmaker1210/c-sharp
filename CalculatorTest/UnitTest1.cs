@@ -2,17 +2,17 @@
 using System;
 
 namespace CalculatorTest
-{
+{ 
     [TestClass]
     public class UnitTest1
     {
-        static int s = 4;
-        calculator.Kalkulatorr cal = new calculator.Kalkulatorr();
+        calculator.Kalkulatorr calc = new calculator.Kalkulatorr(5,5,'+');
+        
         [TestMethod]
         public void Testosszead()
         {
-            int vart = 8;
-            int kapott = cal.kiir();
+            int vart = 10;
+            int kapott = calc.szamolas();
             Assert.AreEqual(vart, kapott);
         }
     }

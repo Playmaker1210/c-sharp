@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\calculator\bin\x64\Debug\calculator.exe.config
+C:\dev\c#\c-sharp\calculator\bin\x64\Debug\calculator.exe
+C:\dev\c#\c-sharp\calculator\bin\x64\Debug\calculator.pdb
+C:\dev\c#\c-sharp\calculator\obj\x64\Debug\calculator.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\calculator\obj\x64\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\calculator\obj\x64\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\calculator\obj\x64\Debug\calculator.exe
+C:\dev\c#\c-sharp\calculator\obj\x64\Debug\calculator.pdb

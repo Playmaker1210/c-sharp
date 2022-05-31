@@ -1,0 +1,17 @@
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\CalculatorTest.dll
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\calculator.exe
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\calculator.pdb
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\calculator.exe.config
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\dev\c#\c-sharp\CalculatorTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\dev\c#\c-sharp\CalculatorTest\obj\Debug\CalculatorTest.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\CalculatorTest\obj\Debug\CalculatorTest.csproj.CopyComplete
+C:\dev\c#\c-sharp\CalculatorTest\obj\Debug\CalculatorTest.dll
+C:\dev\c#\c-sharp\CalculatorTest\obj\Debug\CalculatorTest.pdb
