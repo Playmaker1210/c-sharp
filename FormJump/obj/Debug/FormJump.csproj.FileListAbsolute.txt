@@ -1,0 +1,11 @@
+C:\dev\c#\c-sharp\FormJump\bin\Debug\FormJump.exe.config
+C:\dev\c#\c-sharp\FormJump\bin\Debug\FormJump.exe
+C:\dev\c#\c-sharp\FormJump\bin\Debug\FormJump.pdb
+C:\dev\c#\c-sharp\FormJump\obj\Debug\FormJump.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\FormJump\obj\Debug\FormJump.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\FormJump\obj\Debug\FormJump.JumpForm.resources
+C:\dev\c#\c-sharp\FormJump\obj\Debug\FormJump.Properties.Resources.resources
+C:\dev\c#\c-sharp\FormJump\obj\Debug\FormJump.csproj.GenerateResource.cache
+C:\dev\c#\c-sharp\FormJump\obj\Debug\FormJump.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\FormJump\obj\Debug\FormJump.exe
+C:\dev\c#\c-sharp\FormJump\obj\Debug\FormJump.pdb

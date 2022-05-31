@@ -6,3 +6,11 @@ C:\dev\c#\Dinnye\obj\Debug\Dinnye.csproj.SuggestedBindingRedirects.cache
 C:\dev\c#\Dinnye\obj\Debug\Dinnye.csproj.CoreCompileInputs.cache
 C:\dev\c#\Dinnye\obj\Debug\Dinnye.exe
 C:\dev\c#\Dinnye\obj\Debug\Dinnye.pdb
+C:\dev\c#\c-sharp\Dinnye\bin\Debug\Dinnye.exe.config
+C:\dev\c#\c-sharp\Dinnye\bin\Debug\Dinnye.exe
+C:\dev\c#\c-sharp\Dinnye\bin\Debug\Dinnye.pdb
+C:\dev\c#\c-sharp\Dinnye\obj\Debug\Dinnye.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Dinnye\obj\Debug\Dinnye.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Dinnye\obj\Debug\Dinnye.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Dinnye\obj\Debug\Dinnye.exe
+C:\dev\c#\c-sharp\Dinnye\obj\Debug\Dinnye.pdb

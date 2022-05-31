@@ -1,0 +1,11 @@
+C:\dev\c#\c-sharp\DatumForm\bin\Debug\DatumForm.exe.config
+C:\dev\c#\c-sharp\DatumForm\bin\Debug\DatumForm.exe
+C:\dev\c#\c-sharp\DatumForm\bin\Debug\DatumForm.pdb
+C:\dev\c#\c-sharp\DatumForm\obj\Debug\DatumForm.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\DatumForm\obj\Debug\DatumForm.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\DatumForm\obj\Debug\DatumForm.Form1.resources
+C:\dev\c#\c-sharp\DatumForm\obj\Debug\DatumForm.Properties.Resources.resources
+C:\dev\c#\c-sharp\DatumForm\obj\Debug\DatumForm.csproj.GenerateResource.cache
+C:\dev\c#\c-sharp\DatumForm\obj\Debug\DatumForm.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\DatumForm\obj\Debug\DatumForm.exe
+C:\dev\c#\c-sharp\DatumForm\obj\Debug\DatumForm.pdb

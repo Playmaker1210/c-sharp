@@ -18,3 +18,7 @@ C:\dev\c#\BaratLista\obj\Debug\BaratLista.csproj.CoreCompileInputs.cache
 C:\dev\c#\BaratLista\obj\Debug\BaratLista.csproj.CopyComplete
 C:\dev\c#\BaratLista\obj\Debug\BaratLista.exe
 C:\dev\c#\BaratLista\obj\Debug\BaratLista.pdb
+C:\dev\c#\c-sharp\BaratLista\bin\Debug\BaratFajl.exe
+C:\dev\c#\c-sharp\BaratLista\bin\Debug\BaratFajl.pdb
+C:\dev\c#\c-sharp\BaratLista\bin\Debug\BaratFajl.exe.config
+C:\dev\c#\c-sharp\BaratLista\obj\Debug\BaratLista.csproj.CopyComplete

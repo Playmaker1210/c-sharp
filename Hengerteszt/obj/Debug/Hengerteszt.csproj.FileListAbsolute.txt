@@ -6,3 +6,11 @@ C:\dev\c#\Hengerteszt\obj\Debug\Hengerteszt.csproj.SuggestedBindingRedirects.cac
 C:\dev\c#\Hengerteszt\obj\Debug\Hengerteszt.csproj.CoreCompileInputs.cache
 C:\dev\c#\Hengerteszt\obj\Debug\Hengerteszt.exe
 C:\dev\c#\Hengerteszt\obj\Debug\Hengerteszt.pdb
+C:\dev\c#\c-sharp\Hengerteszt\bin\Debug\Hengerteszt.exe.config
+C:\dev\c#\c-sharp\Hengerteszt\bin\Debug\Hengerteszt.exe
+C:\dev\c#\c-sharp\Hengerteszt\bin\Debug\Hengerteszt.pdb
+C:\dev\c#\c-sharp\Hengerteszt\obj\Debug\Hengerteszt.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Hengerteszt\obj\Debug\Hengerteszt.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Hengerteszt\obj\Debug\Hengerteszt.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Hengerteszt\obj\Debug\Hengerteszt.exe
+C:\dev\c#\c-sharp\Hengerteszt\obj\Debug\Hengerteszt.pdb

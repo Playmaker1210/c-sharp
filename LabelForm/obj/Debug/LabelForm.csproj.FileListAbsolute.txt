@@ -1,0 +1,11 @@
+C:\dev\c#\c-sharp\LabelForm\bin\Debug\LabelForm.exe.config
+C:\dev\c#\c-sharp\LabelForm\bin\Debug\LabelForm.exe
+C:\dev\c#\c-sharp\LabelForm\bin\Debug\LabelForm.pdb
+C:\dev\c#\c-sharp\LabelForm\obj\Debug\LabelForm.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\LabelForm\obj\Debug\LabelForm.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\LabelForm\obj\Debug\LabelForm.Form1.resources
+C:\dev\c#\c-sharp\LabelForm\obj\Debug\LabelForm.Properties.Resources.resources
+C:\dev\c#\c-sharp\LabelForm\obj\Debug\LabelForm.csproj.GenerateResource.cache
+C:\dev\c#\c-sharp\LabelForm\obj\Debug\LabelForm.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\LabelForm\obj\Debug\LabelForm.exe
+C:\dev\c#\c-sharp\LabelForm\obj\Debug\LabelForm.pdb
