@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\BMI\bin\Debug\BMI.exe.config
+C:\dev\c#\c-sharp\BMI\bin\Debug\BMI.exe
+C:\dev\c#\c-sharp\BMI\bin\Debug\BMI.pdb
+C:\dev\c#\c-sharp\BMI\obj\Debug\BMI.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\BMI\obj\Debug\BMI.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\BMI\obj\Debug\BMI.exe
+C:\dev\c#\c-sharp\BMI\obj\Debug\BMI.pdb

@@ -1,0 +1,11 @@
+C:\dev\c#\c-sharp\HalmazForm\bin\Debug\HalmazForm.exe.config
+C:\dev\c#\c-sharp\HalmazForm\bin\Debug\HalmazForm.exe
+C:\dev\c#\c-sharp\HalmazForm\bin\Debug\HalmazForm.pdb
+C:\dev\c#\c-sharp\HalmazForm\obj\Debug\HalmazForm.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\HalmazForm\obj\Debug\HalmazForm.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\HalmazForm\obj\Debug\HalmazForm.Form1.resources
+C:\dev\c#\c-sharp\HalmazForm\obj\Debug\HalmazForm.Properties.Resources.resources
+C:\dev\c#\c-sharp\HalmazForm\obj\Debug\HalmazForm.csproj.GenerateResource.cache
+C:\dev\c#\c-sharp\HalmazForm\obj\Debug\HalmazForm.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\HalmazForm\obj\Debug\HalmazForm.exe
+C:\dev\c#\c-sharp\HalmazForm\obj\Debug\HalmazForm.pdb

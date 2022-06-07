@@ -1,0 +1,11 @@
+C:\dev\c#\c-sharp\DinamikusForm\bin\Debug\DinamikusForm.exe.config
+C:\dev\c#\c-sharp\DinamikusForm\bin\Debug\DinamikusForm.exe
+C:\dev\c#\c-sharp\DinamikusForm\bin\Debug\DinamikusForm.pdb
+C:\dev\c#\c-sharp\DinamikusForm\obj\Debug\DinamikusForm.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\DinamikusForm\obj\Debug\DinamikusForm.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\DinamikusForm\obj\Debug\DinamikusForm.Form1.resources
+C:\dev\c#\c-sharp\DinamikusForm\obj\Debug\DinamikusForm.Properties.Resources.resources
+C:\dev\c#\c-sharp\DinamikusForm\obj\Debug\DinamikusForm.csproj.GenerateResource.cache
+C:\dev\c#\c-sharp\DinamikusForm\obj\Debug\DinamikusForm.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\DinamikusForm\obj\Debug\DinamikusForm.exe
+C:\dev\c#\c-sharp\DinamikusForm\obj\Debug\DinamikusForm.pdb

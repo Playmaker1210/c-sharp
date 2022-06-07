@@ -1,0 +1,11 @@
+C:\dev\c#\c-sharp\MozogForm\bin\Debug\MozogForm.exe.config
+C:\dev\c#\c-sharp\MozogForm\bin\Debug\MozogForm.exe
+C:\dev\c#\c-sharp\MozogForm\bin\Debug\MozogForm.pdb
+C:\dev\c#\c-sharp\MozogForm\obj\Debug\MozogForm.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\MozogForm\obj\Debug\MozogForm.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\MozogForm\obj\Debug\MozogForm.Form1.resources
+C:\dev\c#\c-sharp\MozogForm\obj\Debug\MozogForm.Properties.Resources.resources
+C:\dev\c#\c-sharp\MozogForm\obj\Debug\MozogForm.csproj.GenerateResource.cache
+C:\dev\c#\c-sharp\MozogForm\obj\Debug\MozogForm.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\MozogForm\obj\Debug\MozogForm.exe
+C:\dev\c#\c-sharp\MozogForm\obj\Debug\MozogForm.pdb

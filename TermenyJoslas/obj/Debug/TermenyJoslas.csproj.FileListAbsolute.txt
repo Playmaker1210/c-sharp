@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\TermenyJoslas\bin\Debug\TermenyJoslas.exe.config
+C:\dev\c#\c-sharp\TermenyJoslas\bin\Debug\TermenyJoslas.exe
+C:\dev\c#\c-sharp\TermenyJoslas\bin\Debug\TermenyJoslas.pdb
+C:\dev\c#\c-sharp\TermenyJoslas\obj\Debug\TermenyJoslas.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\TermenyJoslas\obj\Debug\TermenyJoslas.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\TermenyJoslas\obj\Debug\TermenyJoslas.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\TermenyJoslas\obj\Debug\TermenyJoslas.exe
+C:\dev\c#\c-sharp\TermenyJoslas\obj\Debug\TermenyJoslas.pdb

@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\Pontoktavolsaga\bin\Debug\Pontoktavolsaga.exe.config
+C:\dev\c#\c-sharp\Pontoktavolsaga\bin\Debug\Pontoktavolsaga.exe
+C:\dev\c#\c-sharp\Pontoktavolsaga\bin\Debug\Pontoktavolsaga.pdb
+C:\dev\c#\c-sharp\Pontoktavolsaga\obj\Debug\Pontoktavolsaga.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Pontoktavolsaga\obj\Debug\Pontoktavolsaga.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Pontoktavolsaga\obj\Debug\Pontoktavolsaga.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Pontoktavolsaga\obj\Debug\Pontoktavolsaga.exe
+C:\dev\c#\c-sharp\Pontoktavolsaga\obj\Debug\Pontoktavolsaga.pdb

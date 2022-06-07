@@ -1,0 +1,8 @@
+C:\dev\c#\c-sharp\Hianyzasok\bin\Debug\Hianyzasok.exe.config
+C:\dev\c#\c-sharp\Hianyzasok\bin\Debug\Hianyzasok.exe
+C:\dev\c#\c-sharp\Hianyzasok\bin\Debug\Hianyzasok.pdb
+C:\dev\c#\c-sharp\Hianyzasok\obj\Debug\Hianyzasok.csproj.AssemblyReference.cache
+C:\dev\c#\c-sharp\Hianyzasok\obj\Debug\Hianyzasok.csproj.SuggestedBindingRedirects.cache
+C:\dev\c#\c-sharp\Hianyzasok\obj\Debug\Hianyzasok.csproj.CoreCompileInputs.cache
+C:\dev\c#\c-sharp\Hianyzasok\obj\Debug\Hianyzasok.exe
+C:\dev\c#\c-sharp\Hianyzasok\obj\Debug\Hianyzasok.pdb

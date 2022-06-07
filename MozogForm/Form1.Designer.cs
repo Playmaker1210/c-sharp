@@ -32,14 +32,14 @@
             this.buttonSizeDecrease = new System.Windows.Forms.Button();
             this.buttonSizeIncrease = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.labelSize = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.labelOp = new System.Windows.Forms.Label();
             this.buttonOpIncrease = new System.Windows.Forms.Button();
             this.buttonOpDecrese = new System.Windows.Forms.Button();
             this.buttonFSZ = new System.Windows.Forms.Button();
             this.buttonF = new System.Windows.Forms.Button();
             this.buttonK = new System.Windows.Forms.Button();
-            this.labelSize = new System.Windows.Forms.Label();
-            this.labelOp = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -129,6 +129,16 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "groupBox1";
             // 
+            // labelSize
+            // 
+            this.labelSize.AutoSize = true;
+            this.labelSize.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.labelSize.Location = new System.Drawing.Point(6, 29);
+            this.labelSize.Name = "labelSize";
+            this.labelSize.Size = new System.Drawing.Size(58, 24);
+            this.labelSize.TabIndex = 1;
+            this.labelSize.Text = "Meret";
+            // 
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.Color.LightSalmon;
@@ -141,6 +151,16 @@
             this.groupBox2.TabIndex = 4;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "groupBox2";
+            // 
+            // labelOp
+            // 
+            this.labelOp.AutoSize = true;
+            this.labelOp.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.labelOp.Location = new System.Drawing.Point(6, 32);
+            this.labelOp.Name = "labelOp";
+            this.labelOp.Size = new System.Drawing.Size(104, 24);
+            this.labelOp.TabIndex = 2;
+            this.labelOp.Text = "Atlatszosag";
             // 
             // buttonOpIncrease
             // 
@@ -168,6 +188,7 @@
             this.buttonFSZ.TabIndex = 5;
             this.buttonFSZ.Text = "Fent szél";
             this.buttonFSZ.UseVisualStyleBackColor = true;
+            this.buttonFSZ.Click += new System.EventHandler(this.buttonFSZ_Click);
             // 
             // buttonF
             // 
@@ -177,6 +198,7 @@
             this.buttonF.TabIndex = 6;
             this.buttonF.Text = "Fentre";
             this.buttonF.UseVisualStyleBackColor = true;
+            this.buttonF.Click += new System.EventHandler(this.buttonF_Click);
             // 
             // buttonK
             // 
@@ -186,26 +208,6 @@
             this.buttonK.TabIndex = 7;
             this.buttonK.Text = "Közép";
             this.buttonK.UseVisualStyleBackColor = true;
-            // 
-            // labelSize
-            // 
-            this.labelSize.AutoSize = true;
-            this.labelSize.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.labelSize.Location = new System.Drawing.Point(6, 29);
-            this.labelSize.Name = "labelSize";
-            this.labelSize.Size = new System.Drawing.Size(58, 24);
-            this.labelSize.TabIndex = 1;
-            this.labelSize.Text = "Meret";
-            // 
-            // labelOp
-            // 
-            this.labelOp.AutoSize = true;
-            this.labelOp.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.labelOp.Location = new System.Drawing.Point(6, 32);
-            this.labelOp.Name = "labelOp";
-            this.labelOp.Size = new System.Drawing.Size(104, 24);
-            this.labelOp.TabIndex = 2;
-            this.labelOp.Text = "Atlatszosag";
             // 
             // Form1
             // 
