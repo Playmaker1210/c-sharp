@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermenyJoslas", "TermenyJos
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI", "BMI\BMI.csproj", "{119B48A5-5CB7-4C35-AADA-64EF85E66AA3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzigetUT", "SzigetUT\SzigetUT.csproj", "{AD2126EB-7139-415B-AEE6-CFFE0C0EC592}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -551,6 +553,14 @@ Global
 		{119B48A5-5CB7-4C35-AADA-64EF85E66AA3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{119B48A5-5CB7-4C35-AADA-64EF85E66AA3}.Release|x64.ActiveCfg = Release|Any CPU
 		{119B48A5-5CB7-4C35-AADA-64EF85E66AA3}.Release|x64.Build.0 = Release|Any CPU
+		{AD2126EB-7139-415B-AEE6-CFFE0C0EC592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2126EB-7139-415B-AEE6-CFFE0C0EC592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2126EB-7139-415B-AEE6-CFFE0C0EC592}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AD2126EB-7139-415B-AEE6-CFFE0C0EC592}.Debug|x64.Build.0 = Debug|Any CPU
+		{AD2126EB-7139-415B-AEE6-CFFE0C0EC592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2126EB-7139-415B-AEE6-CFFE0C0EC592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2126EB-7139-415B-AEE6-CFFE0C0EC592}.Release|x64.ActiveCfg = Release|Any CPU
+		{AD2126EB-7139-415B-AEE6-CFFE0C0EC592}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
